@@ -1,3 +1,4 @@
+a
 # 🤖 Mr. Cleansalot
 
 **Mr. Cleansalot** is an Arduino-powered automatic floor cleaning robot designed to make everyday cleaning simple, smart, and hands-free.
@@ -47,6 +48,8 @@ Whether it's sweeping or mopping, this compact robot autonomously navigates your
 
 ---
 
+##Media
+![image](https://github.com/user-attachments/assets/5484cb3f-1078-4fa9-9a85-189a6f92d22b)
 
 
 ---
