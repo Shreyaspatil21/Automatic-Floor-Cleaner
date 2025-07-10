@@ -47,9 +47,7 @@ Whether it's sweeping or mopping, this compact robot autonomously navigates your
 
 ---
 
-## 📷 Media
 
-> 📸 *Add images or videos here demonstrating Mr. Cleansalot in action!*
 
 ---
 
